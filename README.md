@@ -6,9 +6,9 @@
 # Domain :
 Banking/Finance
 # Problem Statement :
-1) Prepayment Model.(To identify and verify the drivers for prepayment forecast.) 
+1) Credit Risk Assesment using Machine Learning technique 
 # Reference Published Work :
-1) https://www.researchgate.net/profile/Ron_Kohavi/publication/2774187_Loan_Prepayment_Modeling/links/02e7e51bcc03fde47d000000/Loan-Prepayment-Modeling.pdf
+1) https://www.ijitee.org/wp-content/uploads/papers/v9i1/A4936119119.pdf
 # Data :
 # Software :
 # Statistics/OR Techniques :
