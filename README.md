@@ -1,8 +1,7 @@
 # Team Members:
-(1) Sachi Kumari
+(1) Manan Dev
 (2) Prakhar Verma
 (3) Shashi Kumar Gond
-(4) Manan Dev
 # Domain :
 Banking/Finance
 # Problem Statement :
